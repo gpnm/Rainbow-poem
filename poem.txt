@@ -6,3 +6,4 @@ Violet
 White
 Black
 white-blue
+new-color
